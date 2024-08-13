@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "name": "malek",
+      "email": "malek@gmail.com",
+      "password": "123azerty",
+      "id": "1"
+    },
+    {
+      "id": "4",
+      "name": "far",
+      "email": "far@gmail.com",
+      "password": "23azerty"
+    },
+    {
+      "id": "2",
+      "name": "moh",
+      "email": "moh@gmail.com",
+      "password": "azerty"
+    },
+    {
+      "name": "moh",
+      "id": "3",
+      "email": "moh@gmail.com",
+      "password": "azerty"
+    },
+    {
+      "id": "5",
+      "email": "tony@gmail.com",
+      "password": "12345",
+      "name": "tony"
+    },
+    {
+      "id": "6",
+      "email": "bruce@gmail.com",
+      "password": "1235667",
+      "name": "BRUCE"
+    },
+    {
+      "id": "7",
+      "email": "mohsen@test.com",
+      "password": "123EFGDFG",
+      "name": "mohsen"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Burger King",
+      "contact": 111111,
+      "adresse": "Monastir R6"
+    },
+    {
+      "id": "2",
+      "name": "KFC",
+      "contact": 12341,
+      "adresse": "Skanes FSM"
+    },
+    {
+      "name": "Frouja",
+      "adresse": "Lamta 1",
+      "contact": 344556,
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Papa Grill",
+      "contact": 312344,
+      "adresse": "Ksar Hellal"
+    },
+    {
+      "id": "5",
+      "name": "Saffi",
+      "contact": 56789,
+      "adresse": "Sayada"
+    },
+    {
+      "id": "25fc",
+      "name": "King Tacos",
+      "adresse": "Rond Point Dephins",
+      "contact": "76542"
+    },
+    {
+      "id": "b4fb",
+      "name": "KFC",
+      "adresse": "Mall Of Sousse",
+      "contact": "98457"
+    }
+  ]
+}
